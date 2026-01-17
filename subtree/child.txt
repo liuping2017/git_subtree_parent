@@ -1,3 +1,5 @@
 Wecome to git_subtree_child
 Wecome to china!
 Wecome to Shanghai
+Wecome to Beijing
+Wecome to Guangzhou
